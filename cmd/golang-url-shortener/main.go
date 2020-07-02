@@ -4,9 +4,9 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/mxschmitt/golang-url-shortener/internal/handlers"
-	"github.com/mxschmitt/golang-url-shortener/internal/stores"
-	"github.com/mxschmitt/golang-url-shortener/internal/util"
+	"github.com/russelltsherman/golang-url-shortener/internal/handlers"
+	"github.com/russelltsherman/golang-url-shortener/internal/stores"
+	"github.com/russelltsherman/golang-url-shortener/internal/util"
 	"github.com/pkg/errors"
 	"github.com/shiena/ansicolor"
 	"github.com/sirupsen/logrus"

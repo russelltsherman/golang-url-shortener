@@ -10,7 +10,7 @@ import (
 	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"
-	"github.com/mxschmitt/golang-url-shortener/internal/util"
+	"github.com/russelltsherman/golang-url-shortener/internal/util"
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
 )

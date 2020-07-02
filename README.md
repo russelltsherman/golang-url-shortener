@@ -1,8 +1,8 @@
 # Golang URL Shortener
 
 [![Build Status](https://travis-ci.org/mxschmitt/golang-url-shortener.svg?branch=master)](https://travis-ci.org/mxschmitt/golang-url-shortener)
-[![GoDoc](https://godoc.org/github.com/mxschmitt/golang-url-shortener?status.svg)](https://godoc.org/github.com/mxschmitt/golang-url-shortener)
-[![Go Report Card](https://goreportcard.com/badge/github.com/mxschmitt/golang-url-shortener)](https://goreportcard.com/report/github.com/mxschmitt/golang-url-shortener)
+[![GoDoc](https://godoc.org/github.com/russelltsherman/golang-url-shortener?status.svg)](https://godoc.org/github.com/russelltsherman/golang-url-shortener)
+[![Go Report Card](https://goreportcard.com/badge/github.com/russelltsherman/golang-url-shortener)](https://goreportcard.com/report/github.com/russelltsherman/golang-url-shortener)
 [![Coverage Status](https://coveralls.io/repos/github/mxschmitt/golang-url-shortener/badge.svg?branch=master)](https://coveralls.io/github/mxschmitt/golang-url-shortener?branch=master)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Download](https://api.bintray.com/packages/mxschmitt/golang-url-shortener/travis-ci/images/download.svg?version=0.1) ](https://bintray.com/mxschmitt/golang-url-shortener/travis-ci/0.1#files)
@@ -15,13 +15,13 @@
 - Expirable Links
 - URL deletion
 - Multiple authorization strategies:
-    - Local authorization via OAuth 2.0 (Google, GitHub, Microsoft, and Okta)
-    - Proxy authorization for running behind e.g. [Google IAP](https://cloud.google.com/iap/)
+  - Local authorization via OAuth 2.0 (Google, GitHub, Microsoft, and Okta)
+  - Proxy authorization for running behind e.g. [Google IAP](https://cloud.google.com/iap/)
 - Easy [ShareX](https://github.com/ShareX/ShareX) integration
 - Dockerizable
 - Multiple supported storage backends
-    - High performance local database with [bolt](https://github.com/boltdb/bolt)
-    - Persistent non-local storage with [redis](https://redis.io/)
+  - High performance local database with [bolt](https://github.com/boltdb/bolt)
+  - Persistent non-local storage with [redis](https://redis.io/)
 
 ## [Webinterface](https://so.sh0rt.cat)
 
@@ -33,10 +33,10 @@
 
 ## Documentation
 
-- [Installation](https://github.com/mxschmitt/golang-url-shortener/wiki/Installation)
-- [Configuration](https://github.com/mxschmitt/golang-url-shortener/wiki/Configuration)
-- [Setting up OAuth](https://github.com/mxschmitt/golang-url-shortener/wiki/Setting-up-OAuth)
-- [ShareX Usage](https://github.com/mxschmitt/golang-url-shortener/wiki/ShareX)
+- [Installation](https://github.com/russelltsherman/golang-url-shortener/wiki/Installation)
+- [Configuration](https://github.com/russelltsherman/golang-url-shortener/wiki/Configuration)
+- [Setting up OAuth](https://github.com/russelltsherman/golang-url-shortener/wiki/Setting-up-OAuth)
+- [ShareX Usage](https://github.com/russelltsherman/golang-url-shortener/wiki/ShareX)
 
 ## Why did you built this
 

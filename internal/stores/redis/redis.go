@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/go-redis/redis"
-	"github.com/mxschmitt/golang-url-shortener/internal/stores/shared"
+	"github.com/russelltsherman/golang-url-shortener/internal/stores/shared"
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
 )
